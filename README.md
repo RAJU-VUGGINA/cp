@@ -1,2 +1,4 @@
-# cp
-### Repository Name: LeadForesightAI  ---  ### Description:  **LeadForesightAI: Smart Lead Scoring Engine for D2C Startups**  Unlock the power of predictive analytics with Lead Foresight AI, a state-of-the-art smart lead scoring engine designed specifically for D2C startups.
+# Create An Awesome Streamlit App & Deploy it With Docker.      
+You can find below the link to the medium article explaining how to successfully run the project
+
+https://towardsdatascience.com/create-an-awesome-streamlit-app-deploy-it-with-docker-a3d202a636e8
